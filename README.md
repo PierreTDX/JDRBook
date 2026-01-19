@@ -34,7 +34,7 @@ Le projet utilise un **Backend Mocké** (simulation d'API) pour permettre une ut
 
 1.  **Cloner le projet**
     ```bash
-    git clone <votre-repo-url>
+    git clone https://github.com/PierreTDX/JDRBook.git
     cd JDRBook
     ```
 
